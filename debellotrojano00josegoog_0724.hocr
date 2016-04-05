@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debellotrojano00josegoog_0724.png"; bbox 0 0 3076 4918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 278 1792 1146 1919">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 278 1792 1146 1919">
+     <span class='ocr_line' id='line_1_1' title="bbox 278 1792 1146 1919; baseline 0.014 -11"><span class='ocrx_word' id='word_1_1' title='bbox 278 1792 555 1912; x_wconf 79' lang='lat' dir='ltr'>NOTAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 612 1795 1146 1919; x_wconf 88' lang='lat' dir='ltr'><strong>VARIORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 217 2390 1159 2569">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 217 2390 1159 2569">
+     <span class='ocr_line' id='line_1_2' title="bbox 217 2390 1159 2569; baseline 0.008 -7"><span class='ocrx_word' id='word_1_3' title='bbox 217 2390 230 2415; x_wconf 49' lang='lat'><em>⁶</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 354 2474 646 2569; x_wconf 68' lang='lat' dir='ltr'>mcwos</span> <span class='ocrx_word' id='word_1_5' title='bbox 700 2426 1075 2569; x_wconf 69' lang='lat' dir='ltr'>CRETENsls</span> <span class='ocrx_word' id='word_1_6' title='bbox 1157 2448 1159 2457; x_wconf 82' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 250 2811 1186 2890">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 250 2811 1186 2890">
+     <span class='ocr_line' id='line_1_3' title="bbox 250 2811 1186 2890; baseline 0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 250 2812 335 2889; x_wconf 89' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 379 2811 576 2888; x_wconf 88' lang='lat' dir='ltr'>BELLO</span> <span class='ocrx_word' id='word_1_9' title='bbox 617 2811 907 2890; x_wconf 83' lang='lat' dir='ltr'><strong>TROJANO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 951 2811 1186 2889; x_wconf 86' lang='lat' dir='ltr'><strong>LIBROS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1542 4918">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1542 4918">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1542 4918; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1542 4918; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
