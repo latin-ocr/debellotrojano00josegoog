@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debellotrojano00josegoog/debellotrojano00josegoog_0003.png"; bbox 0 0 758 1231; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 119 719 464 751">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 119 719 464 751">
+     <span class='ocr_line' id='line_1_1' title="bbox 119 719 464 751; baseline 0.012 -4"><span class='ocrx_word' id='word_1_1' title='bbox 119 719 199 747; x_wconf 45' lang='lat' dir='ltr'>Vm&amp;</span> <span class='ocrx_word' id='word_1_2' title='bbox 210 725 252 746; x_wconf 45' lang='grc' dir='ltr'>ινα</span> <span class='ocrx_word' id='word_1_3' title='bbox 257 725 337 749; x_wconf 57' lang='grc' dir='ltr'><em>φεοο.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 357 726 403 748; x_wconf 63' lang='grc'>95</span> <span class='ocrx_word' id='word_1_5' title='bbox 416 726 464 751; x_wconf 69' lang='lat'>02</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 822 473 883">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 822 473 883">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 822 465 847; baseline 0.015 -8"><span class='ocrx_word' id='word_1_6' title='bbox 130 822 465 847; x_wconf 48' lang='lat' dir='ltr'>Q,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 143 857 473 883; baseline 0.012 -4"><span class='ocrx_word' id='word_1_7' title='bbox 143 857 473 883; x_wconf 45' lang='lat' dir='ltr'>GssssOssbbffe—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 318 1099 557 1227">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 318 1099 557 1227">
+     <span class='ocr_line' id='line_1_4' title="bbox 318 1099 557 1227; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 318 1099 557 1227; x_wconf 36' lang='lat' dir='ltr'>f)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
